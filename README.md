@@ -9,13 +9,11 @@ using UltimateValidator;
 
 ## 3. Call the IsValid struct.
 The IsValid struct holds the static methods to validade their parameters.
-- Create the encryotor using the Encryptor constructor. 
+![image](https://user-images.githubusercontent.com/122852487/215940790-dbb964dd-d307-4143-8df5-4d9807eff481.png)
+- Call any of these methods passing the parameters. 
 ```cs
 bool isValidEmail = IsValid.Email("email@adress.com");
 bool isValidCPF = IsValid.CPF("000.000.000-00");
 bool isValidDate = IsValid.Date("01/01/2000");
 // and so on...
 ```
-
-## 4. More validations are being added in this project whenever I create a good algorithm for it.
-![image](https://user-images.githubusercontent.com/122852487/215940790-dbb964dd-d307-4143-8df5-4d9807eff481.png)
