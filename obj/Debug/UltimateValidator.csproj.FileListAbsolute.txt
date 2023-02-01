@@ -1,0 +1,6 @@
+C:\MeusProjetos\libs\csharp\UltimateValidator\bin\Debug\UltimateValidator.dll
+C:\MeusProjetos\libs\csharp\UltimateValidator\bin\Debug\UltimateValidator.pdb
+C:\MeusProjetos\libs\csharp\UltimateValidator\obj\Debug\UltimateValidator.csproj.AssemblyReference.cache
+C:\MeusProjetos\libs\csharp\UltimateValidator\obj\Debug\UltimateValidator.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\libs\csharp\UltimateValidator\obj\Debug\UltimateValidator.dll
+C:\MeusProjetos\libs\csharp\UltimateValidator\obj\Debug\UltimateValidator.pdb
